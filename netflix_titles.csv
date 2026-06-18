@@ -1,0 +1,31 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,Movie,The Irishman,Martin Scorsese,Robert De Niro,United States,"November 1, 2019",2019,R,209 min,Dramas,A mob hitman recalls his involvement with the mob.
+s2,TV Show,Stranger Things,The Duffer Brothers,Millie Bobby Brown,United States,"July 15, 2016",2016,TV-14,4 Seasons,TV Dramas,Kids uncover a mystery involving secret experiments.
+s3,Movie,Roma,Alfonso Cuaron,Yalitza Aparicio,Mexico,"December 14, 2018",2018,R,135 min,Dramas,A year in the life of a middle-class family in Mexico.
+s4,Movie,Bird Box,Susanne Bier,Sandra Bullock,United States,"December 21, 2018",2018,R,124 min,Thrillers,A mother struggles to find a safe place for her kids.
+s5,TV Show,Dark,Baran bo Odar,Louis Hofmann,Germany,"December 1, 2017",2017,TV-MA,3 Seasons,International TV Shows,A missing child sets off a chain of events in a small town.
+s6,Movie,The Two Popes,Fernando Meirelles,Anthony Hopkins,United Kingdom,"December 20, 2019",2019,PG-13,125 min,Dramas,Two popes discuss the future of the Catholic Church.
+s7,TV Show,Money Heist,Alex Pina,Alvaro Morte,Spain,"February 15, 2018",2017,TV-MA,5 Seasons,International TV Shows,A criminal mastermind plans the greatest heist in history.
+s8,Movie,Extraction,Sam Hargrave,Chris Hemsworth,India,"April 24, 2020",2020,R,116 min,Action,A mercenary must rescue a kidnapped boy.
+s9,TV Show,The Crown,Peter Morgan,Claire Foy,United Kingdom,"November 4, 2016",2016,TV-MA,5 Seasons,TV Dramas,The story of Queen Elizabeth II and the politics of the era.
+s10,Movie,To All the Boys I've Loved Before,Susan Johnson,Lana Condor,United States,"August 17, 2018",2018,TV-G,99 min,Romantic Movies,A teen's secret love letters get mailed to each crush.
+s11,TV Show,Narcos,Chris Brancato,Wagner Moura,Colombia,"August 28, 2015",2015,TV-MA,3 Seasons,Crime TV Shows,The story of Colombian drug kingpin Pablo Escobar.
+s12,Movie,Marriage Story,Noah Baumbach,Scarlett Johansson,United States,"November 6, 2019",2019,R,137 min,Dramas,A stage director and an actress struggle through a divorce.
+s13,TV Show,Sacred Games,Vikramaditya Motwane,Saif Ali Khan,India,"July 6, 2018",2018,TV-MA,2 Seasons,International TV Shows,A police officer is warned about a criminal mastermind.
+s14,Movie,Atlantics,Mati Diop,Mama Sane,Senegal,"November 29, 2019",2019,TV-MA,106 min,Dramas,Young workers disappear after leaving by sea.
+s15,Movie,Okja,Bong Joon-ho,Tilda Swinton,South Korea,"June 28, 2017",2017,TV-MA,120 min,Action,A girl risks everything to prevent the capture of her friend.
+s16,TV Show,Ozark,Bill Dubuque,Jason Bateman,United States,"July 21, 2017",2017,TV-MA,4 Seasons,Crime TV Shows,A financial advisor moves his family to the Ozarks.
+s17,Movie,The Highwaymen,John Lee Hancock,Kevin Costner,United States,"March 29, 2019",2019,R,132 min,Dramas,The story of the men who brought down Bonnie and Clyde.
+s18,TV Show,Lupin,George Kay,Omar Sy,France,"January 8, 2021",2021,TV-MA,3 Seasons,International TV Shows,A thief uses a famous novel as his inspiration.
+s19,Movie,The Platform,Galder Gaztelu-Urrutia,Ivan Massague,Spain,"March 20, 2020",2020,TV-MA,94 min,Thrillers,A man wakes up in a strange prison with a vertical layout.
+s20,TV Show,Mindhunter,David Fincher,Jonathan Groff,United States,"October 13, 2017",2017,TV-MA,2 Seasons,Crime TV Shows,FBI agents develop interview techniques with serial killers.
+s21,Movie,Klaus,Sergio Pablos,Jason Schwartzman,Spain,"November 15, 2019",2019,PG,96 min,Children,A postman befriends a toy maker in the north.
+s22,TV Show,Emily in Paris,Darren Star,Lily Collins,France,"October 2, 2020",2020,TV-MA,4 Seasons,Romantic TV Shows,An American marketing executive moves to Paris.
+s23,Movie,Enola Holmes,Harry Bradbeer,Millie Bobby Brown,United Kingdom,"September 23, 2020",2020,PG-13,123 min,Action,Sherlock Holmes' sister searches for her missing mother.
+s24,TV Show,Squid Game,Hwang Dong-hyuk,Lee Jung-jae,South Korea,"September 17, 2021",2021,TV-MA,2 Seasons,International TV Shows,Desperate people compete in deadly children's games.
+s25,Movie,Army of the Dead,Zack Snyder,Dave Bautista,United States,"May 21, 2021",2021,R,148 min,Action,A group plans a heist in a zombie-infested Las Vegas.
+s26,TV Show,Bridgerton,Chris Van Dusen,Phoebe Dynevor,United Kingdom,"December 25, 2020",2020,TV-MA,3 Seasons,Romantic TV Shows,High society romance in Regency-era England.
+s27,Movie,The Trial of the Chicago 7,Aaron Sorkin,Eddie Redmayne,United States,"October 16, 2020",2020,R,130 min,Dramas,The story of the infamous 1969 trial.
+s28,TV Show,Better Call Saul,Vince Gilligan,Bob Odenkirk,United States,"February 8, 2015",2015,TV-MA,6 Seasons,Crime TV Shows,A lawyer transforms into a criminal attorney.
+s29,Movie,Moxie,Amy Poehler,Hadley Robinson,United States,"March 3, 2021",2021,PG-13,111 min,Dramas,A shy girl starts a feminist revolution at her school.
+s30,TV Show,Peaky Blinders,Steven Knight,Cillian Murphy,United Kingdom,"September 12, 2013",2013,TV-MA,6 Seasons,Crime TV Shows,A gangster family in 1919 Birmingham builds an empire.
